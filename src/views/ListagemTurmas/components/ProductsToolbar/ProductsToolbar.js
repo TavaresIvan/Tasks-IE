@@ -44,13 +44,13 @@ const ProductsToolbar = props => {
           color="primary"
           variant="contained"
         >
-          Adicionar Disciplina
+          Adicionar Turmas
         </Button>
       </div>
       <div className={classes.row}>
         <SearchInput
           className={classes.searchInput}
-          placeholder="Buscar Disciplina"
+          placeholder="Buscar Turmas"
         />
       </div>
     </div>

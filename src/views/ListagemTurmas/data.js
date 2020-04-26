@@ -3,7 +3,7 @@ import uuid from 'uuid/v1';
 export default [
   {
     id: uuid(),
-    title: 'Lógica de programação',
+    title: '2020/1',
     description:
       'Dropbox is a file hosting service that offers cloud storage, file synchronization, a personal cloud.',
     imageUrl: '/images/products/product_1.png',
@@ -12,7 +12,7 @@ export default [
   },
   {
     id: uuid(),
-    title: 'Redes',
+    title: '2019/2',
     description:
       'Medium is an online publishing platform developed by Evan Williams, and launched in August 2012.',
     imageUrl: '/images/products/product_2.png',
@@ -21,7 +21,7 @@ export default [
   },
   {
     id: uuid(),
-    title: 'Estrutura de Dados',
+    title: '2019/1',
     description:
       'Slack is a cloud-based set of team collaboration tools and services, founded by Stewart Butterfield.',
     imageUrl: '/images/products/product_3.png',
@@ -30,7 +30,7 @@ export default [
   },
   {
     id: uuid(),
-    title: 'Javascript',
+    title: '2018/2',
     description:
       'Lyft is an on-demand transportation company based in San Francisco, California.',
     imageUrl: '/images/products/product_4.png',
@@ -39,7 +39,7 @@ export default [
   },
   {
     id: uuid(),
-    title: 'Github',
+    title: '2018/1',
     description:
       'GitHub is a web-based hosting service for version control of code using Git.',
     imageUrl: '/images/products/product_5.png',
@@ -48,7 +48,7 @@ export default [
   },
   {
     id: uuid(),
-    title: 'React',
+    title: '2017/2',
     description:
       'Squarespace provides software as a service for website building and hosting. Headquartered in NYC.',
     imageUrl: '/images/products/product_6.png',

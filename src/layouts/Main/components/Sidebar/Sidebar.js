@@ -49,37 +49,32 @@ const Sidebar = props => {
       icon: <DashboardIcon />
     },
     {
-      title: 'Users',
+      title: 'Alunos',
       href: '/users',
       icon: <PeopleIcon />
     },
     {
-      title: 'Products',
+      title: 'Aulas',
+      href: '/aulas',
+      icon: <ShoppingBasketIcon />
+    },
+    {
+      title: 'Disciplinas',
       href: '/products',
       icon: <ShoppingBasketIcon />
     },
     {
-      title: 'Authentication',
-      href: '/sign-in',
-      icon: <LockOpenIcon />
+      title: 'Turmas',
+      href: '/turmas',
+      icon: <ShoppingBasketIcon />
     },
     {
-      title: 'Typography',
-      href: '/typography',
-      icon: <TextFieldsIcon />
-    },
-    {
-      title: 'Icons',
-      href: '/icons',
-      icon: <ImageIcon />
-    },
-    {
-      title: 'Account',
+      title: 'Meu Perfil',
       href: '/account',
       icon: <AccountBoxIcon />
     },
     {
-      title: 'Settings',
+      title: 'Configurações',
       href: '/settings',
       icon: <SettingsIcon />
     }
