@@ -8,8 +8,8 @@ import AttachMoneyIcon from '@material-ui/icons/AttachMoney';
 const useStyles = makeStyles(theme => ({
   root: {
     height: '100%',
-    backgroundColor: theme.palette.primary.main,
-    color: theme.palette.primary.contrastText
+    backgroundColor: '#CAE4F3',
+    color: '#08294C'
   },
   content: {
     alignItems: 'center',
